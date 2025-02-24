@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Richdigital2021
+- 👋 Hi, I’m Richard Akintunde
 - 👀 I’m interested in Web development, Python, and Machine learning.
-- 🌱 I’m currently learning Front End development and Python.
+- 🌱 I’m currently learning front-end development and Python.
 - 💞️ I’m looking to collaborate on Web development projects.
 - 📫 How to reach me email:akintunderichard28@gmail.com. Website: https://websitebix.com
 
