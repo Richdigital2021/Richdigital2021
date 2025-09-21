@@ -62,7 +62,7 @@ Full-Stack Developer (MERN) with experience building scalable web applications, 
 ---
 
 ##  🏆 Github Trophies
-https://github-profile-trophy.vercel.app/?username=Richdigital=true
+[![trophy](https://github-profile-trophy.vercel.app/?username=Richdigital2021&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🎓 Education
 - M.Sc. in Information Technology, [National Open University Of Nigeria], [2014]  
