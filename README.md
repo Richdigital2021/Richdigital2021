@@ -61,6 +61,9 @@ Full-Stack Developer (MERN) with experience building scalable web applications, 
 
 ---
 
+##  🏆 Github Trophies
+https://github-profile-trophy.vercel.app/?username=Richdigital=true
+
 ## 🎓 Education
 - M.Sc. in Information Technology, [National Open University Of Nigeria], [2014]  
 - Certifications: Power Lean Africa MERN Stack, Udemy React/Node Bootcamp  
